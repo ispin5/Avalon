@@ -3,3 +3,5 @@
 * [ranko](idols/ranko)
 * [momoka](idols/momoka)
 * [mayu](idols/mayu)
+## 보존된 푸치 프로필 목록
+* [ranmamo](etc/puchi/ranmamo)
